@@ -1,5 +1,5 @@
 # Connect4AI
-included
+Included:
 --------
 * Implementation using minimax algorithm
 * Implementation using alpha-beta pruning algorithm
