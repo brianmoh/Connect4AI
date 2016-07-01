@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.AbstractMap;
 import java.util.Random;
 
-public class minimax_BrianOh_ColinLee extends AIModule{
+public class minimax extends AIModule{
     
     final private int maxDepth = 5;
     int player = 0;
