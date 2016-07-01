@@ -8,7 +8,7 @@ import java.util.AbstractMap;
 import java.util.Random;
 import java.util.HashMap;
 
-public class alphabeta_BrianOh_ColinLee extends AIModule{
+public class alphabeta extends AIModule{
     
     private int player;
     private long[][] zobHash = new long[42][2];
